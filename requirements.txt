@@ -1,0 +1,5 @@
+barcode_generator==0.1rc15
+fpdf2==2.7.9
+Pillow==10.4.0
+pytest==8.1.1
+pyzbar==0.1.9
